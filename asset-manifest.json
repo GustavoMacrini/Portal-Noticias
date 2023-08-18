@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Portal-Noticias/static/css/main.a2e3db0f.css",
+    "main.js": "/Portal-Noticias/static/js/main.46e57bd4.js",
+    "index.html": "/Portal-Noticias/index.html",
+    "main.a2e3db0f.css.map": "/Portal-Noticias/static/css/main.a2e3db0f.css.map",
+    "main.46e57bd4.js.map": "/Portal-Noticias/static/js/main.46e57bd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e3db0f.css",
+    "static/js/main.46e57bd4.js"
+  ]
+}
